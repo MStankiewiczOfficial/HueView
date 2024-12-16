@@ -1,8 +1,8 @@
 {
     "name": "HueView β",
     "description": "Match the color of your browser to the website you are browsing",
-    "author": "Michal Stankiewicz",
-    "version": "0.1.3",
+    "author": "Michał Stankiewicz",
+    "version": "0.1.4",
     "manifest_version": 3,
     "icons": {
         "16": "icons/normal/icon16.png",

@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This extension is no longer supported and will not be updated. It is recommended to use [Adaptive Tab Bar Colour](https://addons.mozilla.org/firefox/addon/adaptive-tab-bar-colour/).
+
 # HueView
 
 HueView is an open-source Firefox extension that dynamically changes the colors of the browser interface based on the currently active tab. With HueView, you can enjoy an enhanced visual experience that adapts to the theme of the website you are visiting.
@@ -9,11 +12,11 @@ HueView is an open-source Firefox extension that dynamically changes the colors 
 
 ## Installation
 
-### Firefox Add-ons
+### ~~Firefox Add-ons~~ (not available)
 
-1. Open Firefox and navigate to the [HueView page on Firefox Add-ons](https://addons.mozilla.org/firefox/addon/hueview/).
-2. Click on the “Add to Firefox” button.
-3. The extension should now be active! Switch between tabs to see the effects.
+1. ~~Open Firefox and navigate to the [HueView page on Firefox Add-ons](https://addons.mozilla.org/firefox/addon/hueview/).~~
+2. ~~Click on the “Add to Firefox” button.~~
+3. ~~The extension should now be active! Switch between tabs to see the effects.~~
 
 ### Local Installation (until the browser is restarted)
 

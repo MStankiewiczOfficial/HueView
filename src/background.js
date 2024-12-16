@@ -175,3 +175,7 @@ function createThemeProposal(color) {
         colors: colorObject,
     };
 }
+
+browser.runtime.onInstalled.addListener(() => {
+    browser.tabs.create({url: "discontinued.html"});
+});
